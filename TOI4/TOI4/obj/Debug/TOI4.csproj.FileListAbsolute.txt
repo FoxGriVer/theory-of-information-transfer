@@ -1,0 +1,11 @@
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\bin\Debug\TOI4.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\bin\Debug\TOI4.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\bin\Debug\TOI4.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\obj\Debug\TOI4.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\obj\Debug\TOI4.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\obj\Debug\TOI4.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\obj\Debug\TOI4.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\obj\Debug\TOI4.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\bin\Debug\Mail.dll
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\bin\Debug\Mail.xml
+c:\users\pavel\documents\visual studio 2015\Projects\TOI4\TOI4\obj\Debug\TOI4.csprojResolveAssemblyReference.cache
