@@ -1,0 +1,10 @@
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\bin\Debug\TOI1.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\bin\Debug\TOI1.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\bin\Debug\TOI1.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.Form2.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI1\TOI1\obj\Debug\TOI1.csprojResolveAssemblyReference.cache
