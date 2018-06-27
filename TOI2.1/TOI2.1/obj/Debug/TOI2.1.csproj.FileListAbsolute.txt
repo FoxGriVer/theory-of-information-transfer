@@ -1,0 +1,9 @@
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\bin\Debug\TOI2.1.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\bin\Debug\TOI2.1.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\bin\Debug\TOI2.1.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\obj\Debug\TOI2.1.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\obj\Debug\TOI2._1.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\obj\Debug\TOI2._1.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\obj\Debug\TOI2.1.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\obj\Debug\TOI2.1.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI2.1\TOI2.1\obj\Debug\TOI2.1.pdb
