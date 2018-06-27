@@ -1,0 +1,10 @@
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\bin\Debug\TOI3.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\bin\Debug\TOI3.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\bin\Debug\TOI3.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TOI3\TOI3\obj\Debug\TOI3.Form2.resources
